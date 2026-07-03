@@ -54,7 +54,7 @@ Business Question Answered:
 - Learn how to group data using `groupby()`
 - Perform statistical aggregations on grouped data
 - Compare Movies and TV Shows using multiple metrics
-- Extract business insights from aggregated data
+- Create Pivot Tables for reporting and business analysis
 
 Analyses Performed
 - Average release year by content type
@@ -70,6 +70,7 @@ Analyses Performed
 - TV-MA is the most common rating for both Movies and TV Shows.
 - The United States and India contribute the highest number of titles.
 - Netflix's catalog is primarily oriented toward an adult audience.
+- Movies exhibit a greater diversity of ratings than TV Shows.
 
 ### Skills Acquired
 

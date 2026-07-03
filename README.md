@@ -50,7 +50,7 @@ Business Question Answered:
 - Duplicate detection and removal
 - Clean dataset exported for future analyses
 
-## Sprint 4 - Adavanced Analysis with Groupby
+## Sprint 4 - Adavanced Analysis With Groupby & Pivot Tables
 - Learn how to group data using `groupby()`
 - Perform statistical aggregations on grouped data
 - Compare Movies and TV Shows using multiple metrics
@@ -62,6 +62,7 @@ Analyses Performed
 - Rating distribution for Movies and TV Shows
 - Top countries by number of titles
 - Multiple statistical aggregations (`count`, `mean`, `min`, `max`)
+- Creation of Pivot Tables for content analysis
 
 ### Key Insights
 - TV Shows have a more recent average release year than Movies.
@@ -69,3 +70,12 @@ Analyses Performed
 - TV-MA is the most common rating for both Movies and TV Shows.
 - The United States and India contribute the highest number of titles.
 - Netflix's catalog is primarily oriented toward an adult audience.
+
+### Skills Acquired
+
+- Data aggregation with Pandas
+- Multi-dimensional analysis
+- Statistical summary interpretation
+- Business insight extraction
+- Data validation and extreme value analysis
+- Pivot Table creation for reporting and dashboarding

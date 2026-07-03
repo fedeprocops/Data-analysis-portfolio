@@ -56,14 +56,6 @@ Business Question Answered:
 - Compare Movies and TV Shows using multiple metrics
 - Extract business insights from aggregated data
 
-| `groupby()` | Grouping | Groups the dataset according to one or more variables |
-| `mean()` | Aggregation | Computes the average value for each group |
-| `count()` | Aggregation | Counts observations for each group |
-| `agg()` | Multiple Aggregation | Computes multiple statistics simultaneously |
-| `sort_values()` | Sorting | Sorts results by value |
-| `head()` | Selection | Displays the first n results |
-| `value_counts()` | Frequency Analysis | Counts the frequency of values within a group |
-
 Analyses Performed
 - Average release year by content type
 - Content count by type

@@ -1,4 +1,4 @@
-<img width="1114" height="494" alt="image" src="https://github.com/user-attachments/assets/6095df79-bf20-45c3-a3fd-a6e2f578207e" /># CSV Data Explorer
+CSV Data Explorer
 
 A data analysis project built with Python, Pandas and Matplotlib.
 

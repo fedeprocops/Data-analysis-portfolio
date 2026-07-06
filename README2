@@ -1,1 +1,46 @@
+# Sprint 5 - Combining Datasets
 
+## Objectives
+
+- Learn how to combine multiple DataFrames
+- Understand the differences between `concat()`, `merge()` and `join()`
+- Apply different types of joins
+- Merge datasets using one or multiple keys
+- Choose the appropriate merge strategy based on business requirements
+
+## Key Commands Learned
+
+| Command | Purpose | Description |
+|----------|---------|-------------|
+| `concat()` | Concatenation | Combines DataFrames vertically or horizontally |
+| `merge()` | Dataset Integration | Combines DataFrames using one or more common keys |
+| `join()` | Index-based Join | Joins DataFrames using the index |
+| `set_index()` | Index Management | Sets a column as the DataFrame index |
+| `how='inner'` | Inner Join | Keeps only matching records |
+| `how='left'` | Left Join | Keeps all rows from the left DataFrame |
+| `how='right'` | Right Join | Keeps all rows from the right DataFrame |
+| `how='outer'` | Outer Join | Keeps all rows from both DataFrames |
+
+## Analyses Performed
+
+- Vertical and horizontal concatenation with `concat()`
+- Dataset integration using `merge()`
+- Index-based joins with `join()`
+- Merge operations using multiple keys
+- Comparison of different join strategies
+
+## Key Insights
+
+- `concat()` combines DataFrames without requiring a common key.
+- `merge()` combines DataFrames using one or more common columns.
+- `join()` is a simplified alternative when working with indexes.
+- Multiple merge keys improve data integrity when a single key is not sufficient.
+- The choice of join (`inner`, `left`, `right`, `outer`) depends on the business question rather than the syntax.
+
+## Skills Acquired
+
+- Dataset integration with Pandas
+- Understanding relational joins
+- Working with indexes
+- Managing multiple merge keys
+- Selecting the appropriate join strategy for business scenarios
